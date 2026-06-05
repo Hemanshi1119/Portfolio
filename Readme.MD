@@ -51,20 +51,20 @@
 
 > Premium WordPress themes developed for the Envato ThemeForest marketplace.
 
-| Theme | Live Preview |
-|-------|--------------|
-| 🚀 Agenci | https://agenci.peacefulqode.co.in/ |
-| 🏥 Medicen | https://medicen.peacefulqode.co.in/ |
-| 📈 Seoweb | http://seoweb.peacefulqode.co.in/ |
-| 🌾 Agritex | https://agritex.peacefulqode.co.in/ |
-| 🎤 Confer | https://confer.peacefulqode.co.in/ |
-| 🏗️ Buildar | https://buildar.peacefulqode.co.in/ |
-| 💼 Recrutix | https://recrutix.peacefulqode.co.in/ |
-| 🧘 Wellora | http://wellora.peacefulqode.co.in/ |
-| 🌊 Seanova | https://seanova.peacefulqode.co.in/ |
-| 🦷 Denco | https://denco.peacefulqode.co.in/ |
-| 🔬 Labstica | https://labstica.peacefulqode.co.in/ |
-| 📊 Infotix | https://infotix.peacefulqode.co.in/ |
+| Theme | Niche | Live Preview |
+|-------|-------|--------------|
+| 🚀 **Agenci** | Creative Agency & Digital Marketing | [View Demo](https://agenci.peacefulqode.co.in/) |
+| 🏥 **Medicen** | Health & Medical | [View Demo](https://medicen.peacefulqode.co.in/) |
+| 📈 **Seoweb** | SEO & Digital Marketing Agency | [View Demo](http://seoweb.peacefulqode.co.in/) |
+| 🌾 **Agritex** | Agriculture & Organic Farm | [View Demo](https://agritex.peacefulqode.co.in/) |
+| 🎤 **Confer** | Conference & Events | [View Demo](https://confer.peacefulqode.co.in/) |
+| 🏗️ **Buildar** | Construction & Building Company | [View Demo](https://buildar.peacefulqode.co.in/) |
+| 💼 **Recrutix** | Recruitment & HR Solutions | [View Demo](https://recrutix.peacefulqode.co.in/) |
+| 🧘 **Wellora** | Wellness & Spa Salon | [View Demo](http://wellora.peacefulqode.co.in/) |
+| 🌊 **Seanova** | Marine & Ocean Services | [View Demo](https://seanova.peacefulqode.co.in/) |
+| 🦷 **Denco** | Dental & Medical Care | [View Demo](https://denco.peacefulqode.co.in/) |
+| 🔬 **Labstica** | Laboratory & Scientific Research | [View Demo](https://labstica.peacefulqode.co.in/) |
+| 📊 **Infotix** | Business Analytics & IT Solutions | [View Demo](https://infotix.peacefulqode.co.in/) |
 
 ---
 
